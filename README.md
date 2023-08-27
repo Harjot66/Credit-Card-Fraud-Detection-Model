@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 This is a project completed solely in python where I utilized multiple python packages to analyze hundreds of thousands of credit card transactions, some of which being fraudulent. I then used logistic regression and xgboost classification in order to create multiple credit card fraud detection models, ultimately getting to a model which was 99.96% accurate at the testing phase.
 ## The Project
 ### Step 1
